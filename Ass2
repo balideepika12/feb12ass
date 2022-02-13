@@ -1,0 +1,10 @@
+int_x = 20
+int_y = 30
+
+if (int_x != int_y): 
+    print ("Yes, both are not equal!")
+else:
+    print ("Equal")
+
+
+Python-not-equal
